@@ -81,10 +81,10 @@ Mom Agent is already helpful, but there’s room to make it **even more motherly
 Here are some demo screenshots of the Mom Agent in action:
 
 ### 1. Study Tab
-![Study Tab Screenshot](screenshots/study_tab.png)
+![Study Tab Screenshot](studywithmom.png)
 
 ### 2. Reminders Tab
-![Reminders Tab Screenshot](screenshots/reminders_tab.png)
+![Reminders Tab Screenshot](carewithmom.png)
 
 ### 3. Logs & Submission Tab
-![Logs Tab Screenshot](screenshots/logs_tab.png)
+![Logs Tab Screenshot](logswithsubmit.png)

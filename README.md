@@ -2,7 +2,7 @@
 
 **Author:** Adyasa  
 **University:** IIT Guwahati  
-**Department:** <Your Dept>
+**Department:** <Chemical Engineering>
 
 ## What it does
 - Produces short notes and quiz questions from lecture text (Mom-style supportive tone).
